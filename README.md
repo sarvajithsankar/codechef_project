@@ -45,5 +45,6 @@ We moved beyond standard Accuracy metrics to focus on **Recall**, as missing a c
 * **Deep Learning:** Experiment with a Neural Network (MLP) using PyTorch for potentially higher accuracy.
 
 ---
-**Author:** [Your Name]
+**Author:** Sarvajith Sankar
+
 *Built for the CodeChef VIT Recruitment Task*
