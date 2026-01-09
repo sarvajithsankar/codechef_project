@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction: Strategic Analysis
 
-[![Open In Colab](https://colab.research.google.com/drive/1t0vcIMEtz0nGx2mLMBRYfMlItxSJh0JH#scrollTo=iyjBrrLA0Pna)
+[![Open In Colab](https://colab.research.google.com/drive/1t0vcIMEtz0nGx2mLMBRYfMlItxSJh0JH?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
