@@ -46,5 +46,3 @@ We moved beyond standard Accuracy metrics to focus on **Recall**, as missing a c
 
 ---
 **Author:** Sarvajith Sankar
-
-*Built for the CodeChef VIT Recruitment Task*
